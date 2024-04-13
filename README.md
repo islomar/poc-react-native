@@ -43,6 +43,22 @@
 - React Native runs on React.
 - Core concepts: components, JSX, props, state
 
+
+## My first RN app with Expo
+1. `npx create-expo-app AwesomeProject`
+1. `cd AwesomeProject`
+1. `npx expo install react-native-web react-dom @expo/metro-runtime`
+1. `npx run web`
+1. `npx run android`
+    - Install **Android Studio**
+        - https://developer.android.com/studio?hl=es-419
+        - https://developer.android.com/studio/install
+        - https://developer.android.com/studio/run/emulator-acceleration?utm_source=android-studio#vm-linux
+        - Android Studio installs the latest Android SDK by default. Building a React Native app with native code, however, requires the Android 14 (UpsideDownCake) SDK in particular. 
+        - [Install Watchman](https://facebook.github.io/watchman/docs/install#buildinstall)
+            - Watchman is a tool by Facebook for watching changes in the filesystem.
+1. [Metro](https://facebook.github.io/metro/) is the JavaScript build tool for React Native. 
+
 ## Pending readings
 - [Comprehensive guide to JSX](https://react.dev/learn/writing-markup-with-jsx)
 
