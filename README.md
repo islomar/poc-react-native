@@ -64,3 +64,21 @@
 
 ## Tools
 - [VS Studio extension for React Native](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
+
+## Expo
+- [Video: Expo in 100 Seconds](https://www.youtube.com/watch?v=vFW_TxKLyrE)
+- [Getting Started with React Native & Expo in 2024 (Typescript, Unit Tests, Styling, Expo Router, etc)](https://www.youtube.com/watch?v=Xb-HxFGayfY) - video, 16 min
+  - https://github.com/thedevenvironment/expo-router-typescript
+
+
+## Popular apps in React Native
+- https://github.com/bluesky-social/social-app
+- [Showcase](https://reactnative.dev/showcase)
+  - Discord, Walmart, Instagram, Bloomberg
+- https://infinite.red/top-react-native-apps
+- [Curated list of Open Source React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps)
+  - [Joplin](https://github.com/laurent22/joplin) - 44k stars
+  - [AR Cut & Paste](https://github.com/cyrildiagne/ar-cutpaste) - 14k stars
+  - [Eigen](https://github.com/artsy/eigen) - 3.5k stars
+    - There are some tests
+  - [My Plants](https://github.com/benmotyka/my-plants_app)
